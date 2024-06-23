@@ -16,7 +16,7 @@ const routes = {
   "cloudsmith.ecoli.site": "https://docker.cloudsmith.io",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.ecoli.site": dockerHub,
 };
 
 function routeByHosts(host) {
